@@ -119,3 +119,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 [jamie-twitter]: http://twitter.com/j4mie
 [travis]: http://travis-ci.org/dabapps/django-auth-base-template
 [build-status-image]: https://secure.travis-ci.org/dabapps/django-auth-base-template.png
+
+## Code of conduct
+
+For guidelines regarding the code of conduct when contributing to this repository please review [https://www.dabapps.com/open-source/code-of-conduct/](https://www.dabapps.com/open-source/code-of-conduct/)
